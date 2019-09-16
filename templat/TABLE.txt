@@ -1,0 +1,7 @@
+/** Renomeia a tabela **/
+RENAME TABLE $TABLENAMEOLD$ TO $TABLENAMENEW$;
+
+/** Renomeia as coluna **/
+$COLUMNEDIT$
+/** Adiciona as novas colunas **/
+$COLUMNNEW$
