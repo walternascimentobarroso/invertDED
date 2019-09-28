@@ -1,8 +1,4 @@
-id_solicitacao
-id_usuario
-id_historico_aluno
-id_escola
-data_solicitacao
-aprovado
-data_aprovado
-id_usuario_aprovacao
+id
+matricula_id
+usuario_id
+estabelecimento_id
